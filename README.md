@@ -1,1 +1,3 @@
 Assignments and practices done during acadamic course <a href="https://www.greatlearning.in/pg-program-dsba">Post Graduate Program In Data Science And Business Analytics</a> provided by <a href="www.greatlearning.com">Great Lakes E-Learning Services Private Limited</a>
+<h1>Check my assignments</h1>
+<li><a href="https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/M01_Python_For_DataScience.html">M01 Python For Data Science</a></li>
