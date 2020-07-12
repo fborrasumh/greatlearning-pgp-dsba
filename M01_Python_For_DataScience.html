@@ -13211,7 +13211,7 @@ ListB assignment impact ListC [&#39;Hi&#39;, &#39;2&#39;, 3.0] &amp; [&#39;Hi&#3
 <span class="n">list_TupleA</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">tupleA</span><span class="p">)</span>
 <span class="n">list_TupleA</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">=</span><span class="mi">5</span>
 <span class="n">tupleB</span> <span class="o">=</span> <span class="nb">tuple</span><span class="p">(</span><span class="n">list_TupleA</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;tupleA=&#39;</span><span class="p">,</span><span class="n">tupleA</span><span class="p">,</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">tupleB=&#39;</span><span class="p">,</span><span class="n">tupleB</span><span class="p">)</span><span class="c1"># tuple # --- same as list but you cant change its values ---</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;tupleA=&#39;</span><span class="p">,</span><span class="n">tupleA</span><span class="p">,</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">tupleB=&#39;</span><span class="p">,</span><span class="n">tupleB</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13303,6 +13303,159 @@ tupleB= (5, 2, 3, 4)
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>{&#39;rollno&#39;: &#39;1&#39;, &#39;studentname&#39;: &#39;Shreyansh&#39;, &#39;subject&#39;: &#39;maths&#39;, &#39;marks&#39;: &#39;75&#39;}
 My name is Shreyansh ,my roll-no is 1 in subject maths  my score is 75
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X</span><span class="o">=</span> <span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="s2">&quot;Range&quot;</span><span class="p">,</span> <span class="s2">&quot;DSBA&quot;</span><span class="p">,</span> <span class="o">-</span><span class="mi">54</span><span class="p">,</span> <span class="mi">11</span><span class="p">,</span> <span class="mi">12</span><span class="p">)</span>
+<span class="nb">type</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[2]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>tuple</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Loops - Flow control</span>
+<span class="n">counter</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">listIDs</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">8</span><span class="p">,</span><span class="mi">9</span><span class="p">,</span><span class="mi">15</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="mi">52</span><span class="p">,</span><span class="mi">36</span><span class="p">,</span><span class="mi">54</span><span class="p">]</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">listIDs</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;i=&#39;</span><span class="p">,</span><span class="n">i</span><span class="p">,</span><span class="s1">&#39;,counter=&#39;</span><span class="p">,</span><span class="n">counter</span><span class="p">)</span>
+    <span class="n">counter</span><span class="o">+=</span><span class="mi">1</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Outside loop&#39;</span><span class="p">)</span> <span class="c1">#Tabbing decide loops scope</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>i= 0 ,counter= 0
+i= 1 ,counter= 1
+i= 3 ,counter= 2
+i= 4 ,counter= 3
+i= 6 ,counter= 4
+i= 7 ,counter= 5
+i= 8 ,counter= 6
+i= 9 ,counter= 7
+i= 15 ,counter= 8
+i= 24 ,counter= 9
+i= 52 ,counter= 10
+i= 36 ,counter= 11
+i= 54 ,counter= 12
+Outside loop
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">i</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="k">while</span> <span class="p">(</span><span class="n">i</span><span class="o">&lt;</span><span class="mi">4</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;i=&#39;</span><span class="p">,</span><span class="n">i</span><span class="p">)</span>
+    <span class="n">i</span><span class="o">+=</span><span class="mi">1</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;outside&#39;</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>i= 1
+i= 2
+i= 3
+outside
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>range(0, 6)
 </pre>
 </div>
 </div>
