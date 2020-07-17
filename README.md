@@ -2,3 +2,4 @@ Assignments and practices done during acadamic course <a href="https://www.great
 <h1>Assignments</h1>
 <li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_1_Intro_To_Python.html">Week 1 Intro To Python</a></li>
 <li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_1_Numpy_And_Pandas.html">Week 2 Numpy And Pandas</a></li>
+
