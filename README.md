@@ -3,3 +3,4 @@ Assignments and practices done during acadamic course <a href="https://www.great
 <li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_1_Intro_To_Python.html">Week 1 Intro To Python</a></li>
 <li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_2_Numpy.html">Week 2 Numpy</a></li>
 <li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_2_Pandas.html">Week 2 Pandas</a></li>
+<li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/greatlearning-pgp-dsba/blob/development/Week_3_Data_Viz_With_Python.html">Week 3 Data Visualization With Python</a></li>
