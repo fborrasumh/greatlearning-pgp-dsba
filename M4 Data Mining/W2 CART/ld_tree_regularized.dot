@@ -1,4 +1,0 @@
-digraph Tree {
-node [shape=box] ;
-0 [label="gini = 0.496\nsamples = 212\nvalue = [97, 115]\nclass = Yes"] ;
-}
