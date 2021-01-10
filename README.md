@@ -21,6 +21,7 @@ Assignments and practices done during acadamic course <a href="https://www.great
     -  [Probability Distribution Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_2_SMDM_Inferential_Statistics%23Probability_%26_Distributions/Probability%20Distributions_Solutions.ipynb)
     -  [Lung Capacity Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_2_SMDM_Inferential_Statistics%23Probability_%26_Distributions/Lung%20Capacity%20-%20Solutions.ipynb)
     -  [Additional Probability Material Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_2_SMDM_Inferential_Statistics%23Probability_%26_Distributions/Additional%20Probability%20Material%20Solution%20Code.ipynb)
+
 ### Advance Statistics
 -  #### ANOVA
 	-  [Cardio Good Fitness - Descriptive Statistics](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/CardioGoodFitness%20-%20Descriptive%20Statistics%20(2).ipynb)
@@ -30,6 +31,7 @@ Assignments and practices done during acadamic course <a href="https://www.great
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
 -  #### Project
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+
 ### Data Mining
 -	#### CART
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
@@ -39,6 +41,7 @@ Assignments and practices done during acadamic course <a href="https://www.great
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
 -  #### Project
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+
 ### Predictive Modeling
 -	#### Linear Regression
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
