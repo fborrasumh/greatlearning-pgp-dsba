@@ -30,3 +30,21 @@ Assignments and practices done during acadamic course <a href="https://www.great
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
 -  #### Project
 	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+### Data Mining
+-	#### CART
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### Random Forest
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### ANN
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### Project
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+### Predictive Modeling
+-	#### Linear Regression
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### Logistic Regression
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### Linear Discriminant Analysis
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+-  #### Project
+	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
