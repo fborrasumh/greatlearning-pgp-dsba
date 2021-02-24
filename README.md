@@ -35,9 +35,12 @@ Assignments and practices done during acadamic course <a href="https://www.great
 	-  [EDA Cars Example](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M3%20Advance%20Statistics/W2%20EDA/EDA_Cars_solution.ipynb)
 	-  [EDA Slump Test](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M3%20Advance%20Statistics/W2%20EDA/M3W2-Assignment-Slump-Test.ipynb)
 -  #### PCA
-	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+	-  [PCA Redwine](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M3%20Advance%20Statistics/W3%20PCA/M3_W3_PCA_RedWine_Solution.ipynb)
+	-  [PCA Cancer Data](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M3%20Advance%20Statistics/W3%20PCA/PCA_Cancer_Data_solution%20(1).ipynb)
+	-  [PCA Facebook Data](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M3%20Advance%20Statistics/W3%20PCA/PCA_FB.ipynb)
 -  #### Project
-	-  [Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
+	-  A research laboratory was developing a new compound for the relief of severe cases of hay fever. In an experiment with 36 volunteers, the amounts of the two active ingredients (A & B) in the compound were varied at three levels each. Randomization was used in assigning four volunteers to each of the nine treatments. The data on hours of relief can be found in the following .csv file: Fever.csv 
+	[Insurance Case Study Solution](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/Module%2002%20Statistical%20Methods%20for%20Decision%20Making/Week_1_SMDM_Descriptive_Statistics/Insurance%20Case%20Study_Solution.ipynb)
 
 ### Data Mining
 -	#### CART
