@@ -72,3 +72,21 @@ Assignments and practices done during acadamic course <a href="https://www.great
 	-  [Customer Churn Predictor](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M5%20Pridictive%20Modeling/M5%20W3%20Linear%20Dicriminant%20Analytics%20LDA/Predictive%20Modelling%20-%20Linear%20Discriminant%20Analysis%20-%20Mentor%20Version-Copy1.ipynb)
 -  #### Project
 	-  [Linear Regression, Logistic Regression & LDA](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M5%20Pridictive%20Modeling/M5%20W4%20Project/M5%20Predictive%20Modeling%20W4%20Logistic%20Regression%20and%20LDA%20Project%20-%20Shreyansh.ipynb)
+	
+### Machine Learning Algorithams
+-	#### Naive Bayes & KNN
+	-  [Naive Bayes & KNN](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6%20Machine%20Learning%20W1%20Supervised%20Learning%20-%20Classification%20Models%20-%20Naive%20Bayes%20and%20KNN)
+	-  [IRIS Flower Classification Using KNN](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6%20Machine%20Learning%20W1%20Supervised%20Learning%20-%20Classification%20Models%20-%20Naive%20Bayes%20and%20KNN/Week-1-%20Practice%20Exercise-%20KNN-Solutions.ipynb)
+- #### Text Mining
+	-  [Hierarchical document clustering Text Analysis](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W3%20Text%20Mining%20%26%20Sentiment%20Analysis/textAnalysis_HClust.ipynb)
+-  #### Sentiment Analysis
+	-  [Sentiment Analysis On Movie Reviews](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/M6_Machine_Learning/M6_Machine_Learning_W3%20Text%20Mining%20%26%20Sentiment%20Analysis/sentiment_analysis.ipynb)
+	-  [Sentiment Analysis On Apple Tweets](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W3%20Text%20Mining%20%26%20Sentiment%20Analysis/Week-3_Solution_File%20-%20ML_New_Updated.ipynb)
+	-  [Sentiment Analysis Example](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W3%20Text%20Mining%20%26%20Sentiment%20Analysis/Practice%20Exercise%20%20-%20Sentiment%20Analysis%20Sample%20Solution.ipynb)
+-  #### Ensemble Learning Techniques
+	-  [Predict Loan Defaulter Using Decision Tree](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W2_Supervised_Learning_Ensemble_Techniques_Sampling_Techniques/DecisionTree.ipynb)
+	-  [Predict Heart Attack](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W2_Supervised_Learning_Ensemble_Techniques_Sampling_Techniques/ML_Week-2_Solution_file%20Sept%2011.ipynb)
+	-  [Predict Heart Attack Using XGB & CatBOOST](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W2_Supervised_Learning_Ensemble_Techniques_Sampling_Techniques/XGB%20and%20CATBOOST.ipynb)
+-  #### Project
+	-  [Predict Vote](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W4_Project/M6%20W4%20Project.ipynb)
+	-  [Three US President's Speech Analysis](https://nbviewer.jupyter.org/github/theshreyansh/greatlearning-pgp-dsba/blob/master/M6_Machine_Learning/M6_Machine_Learning_W4_Project/M6%20W4%20Project%20Part%20II.ipynb)
